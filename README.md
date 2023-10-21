@@ -56,3 +56,16 @@ How to add BTT SFS V2.0 on Sovol Sv07 and Sv07 Plus
      RESPOND TYPE=echo MSG="Filament was inserted"
    ```
 9. Save and restart.
+10. Check if its working:
+
+    Mainsail: Under dashboard you will see:
+
+    ![Mainsail](https://github.com/TomasOlsson/SFSv2OnSv07/blob/main/image.png?raw=true)
+
+    Fluidd: You will find it under the page "Tune"
+
+    ![Fluidd](https://github.com/TomasOlsson/SFSv2OnSv07/blob/main/fluid.png?raw=true)
+
+11. If everything checks out try to print.
+
+    # HAPPY PRINTING

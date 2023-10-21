@@ -1,6 +1,8 @@
 # SFSv2OnSv07
 How to add BTT SFS V2.0 on Sovol Sv07 and Sv07 Plus
 
+Discord 3D printer 101: https://discord.gg/SBAAEH9qnD
+
 # What you need
 1. SFS V2.0
 2. Printed part of couplerholderV0.3.3mf and SFSV2Holder.3mf
@@ -64,8 +66,9 @@ How to add BTT SFS V2.0 on Sovol Sv07 and Sv07 Plus
 
     Fluidd: You will find it under the page "Tune"
 
+
     ![Fluidd](https://github.com/TomasOlsson/SFSv2OnSv07/blob/main/fluid.png?raw=true)
 
-11. If everything checks out try to print.
+12. If everything checks out try to print.
 
     # HAPPY PRINTING

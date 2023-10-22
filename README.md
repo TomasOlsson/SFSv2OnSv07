@@ -1,7 +1,7 @@
 # SFSv2OnSv07
 How to add BTT SFS V2.0 on Sovol Sv07 and Sv07 Plus
 
-Discord 3D printer 101: https://discord.gg/SBAAEH9qnD
+Join our discord server Just another 3D printer community: https://discord.gg/SBAAEH9qnD
 
 # What you need
 1. SFS V2.0
